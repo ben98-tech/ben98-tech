@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ben98-tech
+- 👋 Hi, I’m ben_
 - 👀 I’m interested in cyber and network security 
 - 🌱 I’m currently studying in the field of Information Technology
 - 💞️ I’m kindly looking to collaborate on with you
